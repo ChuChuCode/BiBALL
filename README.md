@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0fda76f1-c8b4-4995-b55b-ff65abce7a37)# BiBALL
+# BiBALL
  A Hololive Suika fan game 
 ![Cover](https://media.discordapp.net/attachments/1214872012854665257/1285157898682503280/cover.png?ex=670a3590&is=6708e410&hm=91b5a8d9c80ffde71aa0785eb1f72cd4df5abd43047fd0fdc21ff399a0f0e0eb&=&format=webp&quality=lossless&width=2360&height=1328)
 
