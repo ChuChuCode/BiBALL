@@ -15,7 +15,7 @@
  ### Music
  #### CaptainMeow
  
- ![CaptainMeow](https://media.discordapp.net/attachments/1214872012854665257/1285158404389605376/CaptainMeow.png?ex=66e94088&is=66e7ef08&hm=11804328210db4f973a509084f7fb20992c5addc92fb2864947ef2c7023e2e34&=&format=webp&quality=lossless&width=360&height=360)
+ ![CaptainMeow](https://media.discordapp.net/attachments/1214872012854665257/1285158404389605376/CaptainMeow.png?ex=670a3608&is=6708e488&hm=d29c2e653bc01a2bf698319f23dfe08b31ae55dd42d298d00ee19a5fa69bc1b8&=&format=webp&quality=lossless&width=776&height=776)
  
  [X](https://twitter.com/capmeowpiano)
  
@@ -24,7 +24,7 @@
  ### Program
  #### ChuChu
  
- ![ChuChu](https://media.discordapp.net/attachments/1214872012854665257/1285158404742189076/ChuChu.png?ex=66e94088&is=66e7ef08&hm=fe08bbb8b9d161fa9a34766da7a2d87386fcebe18900f56afc4c2291979ababe&=&format=webp&quality=lossless&width=360&height=360)
+ ![ChuChu](https://media.discordapp.net/attachments/1214872012854665257/1285158404742189076/ChuChu.png?ex=670a3608&is=6708e488&hm=fbed43bd372ded81b2b622bac97d997254a21f89ff3968256daeed06166efa56&=&format=webp&quality=lossless&width=776&height=776)
  
  [X](https://twitter.com/_ChuChu0314)
  
