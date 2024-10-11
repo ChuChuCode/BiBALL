@@ -1,12 +1,12 @@
-# BiBALL
+![image](https://github.com/user-attachments/assets/0fda76f1-c8b4-4995-b55b-ff65abce7a37)# BiBALL
  A Hololive Suika fan game 
-![Cover](https://media.discordapp.net/attachments/1214872012854665257/1285157898682503280/cover.png?ex=66e94010&is=66e7ee90&hm=69c74b91cbb1e4c1927544a6ac5a1a9a9aa76dedb5565951aee3aed3d954a477&=&format=webp&quality=lossless&width=2360&height=1328)
+![Cover](https://media.discordapp.net/attachments/1214872012854665257/1285157898682503280/cover.png?ex=670a3590&is=6708e410&hm=91b5a8d9c80ffde71aa0785eb1f72cd4df5abd43047fd0fdc21ff399a0f0e0eb&=&format=webp&quality=lossless&width=2360&height=1328)
 
 ## Credit
  ### Art
  #### Wugedou
  
- ![Wugedou](https://media.discordapp.net/attachments/1214872012854665257/1285158403911712830/579.png?ex=66e94088&is=66e7ef08&hm=ed442db0a252f3c41e0a3f11ff8debfb3c5dd98e3cbaeafb53d3fcb0cd0c3301&=&format=webp&quality=lossless&width=360&height=360)
+ ![Wugedou](https://media.discordapp.net/attachments/1214872012854665257/1285158403911712830/579.png?ex=670a3608&is=6708e488&hm=6a28d3473c36faec2c29e466770ccc4fe4385d2fb30da5e40bfd863435e1aefe&=&format=webp&quality=lossless&width=776&height=776)
  
  [X](https://twitter.com/wugedou579)
  
