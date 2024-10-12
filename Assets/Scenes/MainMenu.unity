@@ -9239,6 +9239,7 @@ MonoBehaviour:
   leaderboard_Single: {fileID: 2046064583}
   btn: {fileID: 1957766408}
   btn_color: {fileID: 412066299}
+  is_Challenge: 0
 --- !u!1 &1492031156
 GameObject:
   m_ObjectHideFlags: 0

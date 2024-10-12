@@ -36,6 +36,8 @@ public class Ball : MonoBehaviour
             Vector3 temp = Vector3.Lerp(col.transform.position, transform.position, 0.5f);
             // Instantiate ball of next level
             GameObject new_ball = Instantiate(spawn_prefab,temp,Quaternion.identity);
+            // Instantiate Particle
+            Instantiate(Star,temp,Quaternion.identity);
             // Check ball level is 11 or not by checking script type
             if (new_ball.GetComponent<Ball>() != null)
             {

@@ -21,7 +21,7 @@
             {
                 "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "buildOutputDirList",
-                "value": "{\"m_Value\":\"/Users/kerwinchu/Desktop/Unity Game/My project/Demo/1.2ver_pre;/Users/kerwinchu/Desktop/Unity Game/My project/Demo/ver1.1_release;/Users/kerwinchu/Desktop/Unity Game/My project/Demo/1.1ver_release;/Users/kerwinchu/Desktop/Unity Game/My project/Demo/1.1ver_pre;/Users/kerwinchu/Desktop/Unity Game/My project/Demo/Final_Final;/Users/kerwinchu/Desktop/Unity Game/My project/Demo/Final_1;/Users/kerwinchu/Desktop/Unity Game/My project/Demo/Final;/Users/kerwinchu/Desktop/Unity Game/My project/Demo/Demo_4/Demo_4;/Users/kerwinchu/Desktop/Unity Game/My project/Demo/Demo_4;/Users/kerwinchu/Desktop/Unity Game/My project/Demo/Demo_3\"}"
+                "value": "{\"m_Value\":\"/Users/kerwinchu/Documents/GitHub/BiBALL/Demo/v1.2_release;/Users/kerwinchu/Documents/GitHub/BiBALL/Demo/v1.2_Release;/Users/kerwinchu/Desktop/Unity Game/My project/Demo/1.2ver_pre;/Users/kerwinchu/Desktop/Unity Game/My project/Demo/ver1.1_release;/Users/kerwinchu/Desktop/Unity Game/My project/Demo/1.1ver_release;/Users/kerwinchu/Desktop/Unity Game/My project/Demo/1.1ver_pre;/Users/kerwinchu/Desktop/Unity Game/My project/Demo/Final_Final;/Users/kerwinchu/Desktop/Unity Game/My project/Demo/Final_1;/Users/kerwinchu/Desktop/Unity Game/My project/Demo/Final;/Users/kerwinchu/Desktop/Unity Game/My project/Demo/Demo_4/Demo_4\"}"
             }
         ]
     }
