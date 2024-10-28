@@ -1,12 +1,12 @@
 # BiBALL
  A Hololive Suika fan game 
-![Imgur](https://imgur.com/RmO3AA2)
+![Imgur](https://imgur.com/RmO3AA2.png)
 
 ## Credit
  ### Art
  #### Wugedou
  
- ![Wugedou](https://imgur.com/Y5akrP0)
+ ![Wugedou](https://imgur.com/Y5akrP0.png)
  
  [X](https://twitter.com/wugedou579)
  
@@ -15,7 +15,7 @@
  ### Music
  #### CaptainMeow
  
- ![CaptainMeow](https://imgur.com/4UklbWO)
+ ![CaptainMeow](https://imgur.com/4UklbWO.png)
  
  [X](https://twitter.com/capmeowpiano)
  
@@ -24,7 +24,7 @@
  ### Program
  #### ChuChu
  
- ![ChuChu](https://imgur.com/rPnCDvj)
+ ![ChuChu](https://imgur.com/rPnCDvj.png)
  
  [X](https://twitter.com/_ChuChu0314)
  
