@@ -1,6 +1,6 @@
 # BiBALL
  A Hololive Suika fan game 
-![Imgur](https://imgur.com/Y5akrP0)
+![Imgur](https://imgur.com/RmO3AA2)
 
 ## Credit
  ### Art
